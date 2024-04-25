@@ -1,0 +1,22 @@
+header {
+    background-color: #0074d9; /* Cor de fundo */
+    color: #fff; /* Cor do texto */
+    padding: 20px; /* Preenchimento interno */
+    display: flex; /* Organização em linha dos elementos dentro do header */
+    justify-content: center; /* Alinha os elementos ao centro horizontalmente */
+  }
+  
+
+  h1{
+    font-family:sans-serif;
+    color:#fff;
+  }
+
+  footer{
+    background-color: #333;
+  }
+
+  p{
+    font-family: sans-serif;
+    color: #fff;
+  }
